@@ -3,7 +3,7 @@
 
 📈 Founder at @omundocripto_
 
-🖥️ Under Construction 15% ... https://omundocripto.cf/
+🖥️ Under Construction . . . 15%  https://omundocripto.cf/
 __________________________________________
 
 ### Skills
