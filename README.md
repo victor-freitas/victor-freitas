@@ -9,7 +9,7 @@ __________________________________________
 ### Skills
 👨‍💻 HTML, CSS, JS                      
 
-⚙️ Python 💕
+⚙️ Python(django, django rest, flask) 💕
 
 💽 MySQL, SQL
 
