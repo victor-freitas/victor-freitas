@@ -7,7 +7,7 @@
 __________________________________________
 
 ### Skills
-👨‍💻 HTML, CSS, JS                      
+👨‍💻 HTML, CSS, JS, Vue, React 
 
 ⚙️ Python(django, django rest, flask) 💕
 
