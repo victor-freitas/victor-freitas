@@ -11,7 +11,7 @@ __________________________________________
 
 ⚙️ Python(django, django rest, flask) 💕
 
-💽 MySQL, SQL
+💽 MySQL, SQL, Postgres, Elasticsearch, Redis
 
 ### Contato
 __________________________________________
