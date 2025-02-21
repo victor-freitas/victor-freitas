@@ -1,9 +1,9 @@
 
-### Olá eu sou o Victor, 
-Bem-Vindo 👋
+### Hi there i'm Victor, 
+Welcome 👋
 
 ```bash
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Passionate about technology, education, and changing people's lives through programming.
 ```
 __________________________________________
 
@@ -31,7 +31,7 @@ __________________________________________
 
 💽 Elasticsearch, Redis
 
-### Contato
+### Contact
 __________________________________________
 📲 (11) 99567-2655
 
