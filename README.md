@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Victor 👋</h1>
 
 <p align="center">
-  <em>Software Engineer who believes <strong>tech + education</strong> can change lives.</em>
+  <em>I love using code to solve real problems and positively impact people's lives.</em>
 </p>
-
 ---
 
 
@@ -28,20 +27,19 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=victor-freitas&show_icons=true&theme=github_dark" alt="GitHub Stats" height="165"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-freitas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=victor-freitas&show_icons=true&theme=github_dark" alt="GitHub Stats" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-freitas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=victor-freitas&theme=github-dark" alt="GitHub Streak" width="50%"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=victor-freitas&theme=github-dark" alt="GitHub Streak" width="60%"/>
+</div>
 
 </div>
 
