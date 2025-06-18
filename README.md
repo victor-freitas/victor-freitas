@@ -1,38 +1,48 @@
+<h1 align="center">Hey, I'm Victor 👋</h1>
 
-### Hi there i'm Victor, 
-Welcome 👋
+<p align="center">
+  <em>Software Engineer who believes <strong>tech + education</strong> can change lives.</em>
+</p>
 
-```bash
-Passionate about technology, education, and changing people's lives through programming.
-```
-__________________________________________
-
-### Skills 👨‍💻 
-
-<div style="display: inline_block">
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="" src="" />
-  <img align="center" alt="" src="" />
-</div><br/>
+---
 
 
-### 
+## 💼 Experience
 
-💽 Elasticsearch, Redis
+- Real-time features: WebSockets, Server-Sent Events  
+- Queues & workers: Celery, RQ  
+- Notification systems: in-app, email, push  
+- Data & Search: PostgreSQL, MySQL, Redis, Elasticsearch  
+- Other: Git, Docker, REST APIs, RBAC, Clean Architecture, Testing  
 
-### Contact
-__________________________________________
-📲 (11) 99567-2655
+---
 
-📩 victordefcb@gmail.com
+## 🤝 Let's Connect!
+
+- +55 11 99567-2655  
+- victordefcb@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/barboza-victor/)
+
+---
+## Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=victor-freitas&show_icons=true&theme=github_dark" alt="GitHub Stats" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-freitas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=victor-freitas&theme=github-dark" alt="GitHub Streak" width="50%"/>
+
+</div>
+
+---
